@@ -1,0 +1,53 @@
+body{
+	background-image: url(../imagenes./tema.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.b{
+	color: white;
+	background: transparent;
+	background-position: center;
+	height: auto;
+	width: auto;
+	border-radius: 20px; 
+	margin: 100px 40px;
+}
+.b button{
+	padding: 10px 40px;
+	border: 2px solid #fff;
+	background: transparent;
+	font-size: 14px;
+	font-weight: 600;
+	cursor: pointer;
+	color: white;
+	outline: none;
+	transition: all 1s;
+	border-radius: 20px;
+}
+.b button:hover{
+	background: white;
+	color: black;
+}
+.b form label{
+	padding: 10px 40px;
+	border: 2px solid #fff;
+	background: transparent;
+	font-size: 16px;
+	outline: none;
+	cursor: pointer;
+	color: white;
+	border-radius: 20px;
+}
+.b form input{
+	background: transparent;
+	border-radius: 20px;
+}
+.d{
+	justify-content: center;
+	background-color: rgba(0, 128, 255, 0.5);
+	backdrop-filter: blur(10px);
+	width: 50%;
+}

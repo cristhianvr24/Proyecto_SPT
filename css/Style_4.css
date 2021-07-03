@@ -1,0 +1,32 @@
+body{
+	background-image: url(../imagenes./opp.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+.c{
+	color: white;
+	background: transparent;
+	background-position: center;
+	height: auto;
+	width: auto;
+	border-radius: 20px; 
+	margin: 100px 40px;
+}
+.c button{
+	padding: 10px 40px;
+	border: 2px solid #fff;
+	background: transparent;
+	font-size: 14px;
+	font-weight: 600;
+	cursor: pointer;
+	color: white;
+	outline: none;
+	transition: all 1s;
+	border-radius: 20px;
+}
+.c button:hover{
+	background: white;
+	color: black;
+}
