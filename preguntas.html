@@ -4,13 +4,13 @@
 	<meta charset="utf-8">
 	<title>Preguntas</title>
 	<link rel= "stylesheet" href= "css./Style.css">
-	<script src="js./jquery-3.6.0.min.js"></script>
+	<script src="./js./jquery-3.6.0.min.js" type="text/javascript"></script>
 
 </head>
 <body>
-	<center><h2><div class= "a" id= "pregunta"></div></h2></center>
+	<center><h2><div class= "a" id= "preguntas"></div></h2></center>
 	<center><div class= "a" id= "respuestas">
-		
+
 	</div></center>
 
 	<script>
@@ -102,16 +102,19 @@ function jugar(){
 
 	}
 	document.getElementById("respuestas").innerHTML = txt_respuestas;
-	document.getElementById("pregunta").innerHTML = preguntas[indice_aleatorio];
+	document.getElementById("preguntas").innerHTML = preguntas[indice_aleatorio];
+	comprobar();
 }
 
 function comprobar() {
-	var respuestas = $("input[type=button]:checked").val();
-	if(respuesta==indice_respuesta_correcta){
-		alert("correcto");
-	}else{
-		alert("incorrecto");
-	}jugar();
+	var respuesta = $("input [type=button]:click").val();
+		if(respuesta== indice_respuesta_correcta){
+			setTimeout(()=> location.href= "file:./preguntas.html",1000);
+			
+		}else{
+			alert("incorrecto");
+			setTimeout(()=> location.href="file:./pantalla final.html",1000);
+		}
 }
 </script>
 </body>
