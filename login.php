@@ -49,7 +49,7 @@
     </div>
 
   </main>
-  <script type="text/javascript" src="js./scrip.js"></script>
+  <script type="text/javascript" src="./js/scrip.js"></script>
 
 
 </body>
