@@ -111,10 +111,10 @@ function comprobar() {
 	var respuesta = $("input[type=radio]:checked").val();
 	if (respuesta==indice_respuesta_correcta) {
 		alert("Correcto, pasemos a la siguiente pregunta");
-		setTimeout(()=> location.href="./preguntas.html", 1000);
+		setTimeout(()=> location.href="./preguntas.php", 1000);
 	}else{
 		alert("Lo sentimos, te has equivocado");
-		setTimeout(()=> location.href="./pantalla final.html", 1000);
+		setTimeout(()=> location.href="./pantalla final.php", 1000);
 	}
 
 }

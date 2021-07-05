@@ -36,7 +36,7 @@
         <input type="text" placeholder="Nombre">
         <input type="text" placeholder="Apellido"><br><br>
         <p>Ahora puedes estudiar</p>
-        <input class="a" type="button" value="Pulsa aquí" onclick="location.href='./tema.html'">
+        <input class="a" type="button" value="Pulsa aquí" onclick="location.href='./tema.php'">
       </form>
       <form action="" class="formulario_j">
         <h2>Introduce tu nombre</h2>
@@ -44,7 +44,7 @@
         <input type="text" placeholder="Apellido">
         <br><br>
         <p>Ahora puedes comenzar a divertirte</p>
-        <input class="a" type="button" value="A divertirse" onclick="location.href='./tema_juego.html'">
+        <input class="a" type="button" value="A divertirse" onclick="location.href='./tema_juego.php'">
       </form>
     </div>
 

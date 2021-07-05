@@ -11,8 +11,8 @@
 		<br>
 		<br>
 		<center>
-			<input class="a" type="button" value="Historia de la quimica" onclick="location.href='./historia.html'">
-			<input class="a" type="button" value="Tabla periodica" onclick="location.href='./tabla-per.html'">
+			<input class="a" type="button" value="Historia de la quimica" onclick="location.href='./historia.php'">
+			<input class="a" type="button" value="Tabla periodica" onclick="location.href='./tabla-per.php'">
 		</center>
 	</div>
 </body>

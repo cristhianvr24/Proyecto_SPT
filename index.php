@@ -15,7 +15,7 @@
     <div class="a">
     <center><h1>Study Periodic Table</h1></center>
     <br>
-    <center><input class="a" type="button" value="Comenzar" onclick="location.href='./login.html'"></center>
+    <center><input class="a" type="button" value="Comenzar" onclick="location.href='./login.php'"></center>
     <br>
     <br>
     <br>

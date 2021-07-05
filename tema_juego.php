@@ -12,7 +12,7 @@
 				<br>
 				<center><h3>Te deseamos suerte, tu puedes...</h3></center>
 			</div></center>
-		<center><input class="a" type="button" value="Jugar" onclick="location.href='./preguntas.html'">
+		<center><input class="a" type="button" value="Jugar" onclick="location.href='./preguntas.php'">
 		</center>
 	</div>
 </body>
