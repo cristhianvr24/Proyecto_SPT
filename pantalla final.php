@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Pantalla final</title>
-	<link rel="stylesheet" href="css./Style_4.css">
+	<link rel="stylesheet" href="./css/Style_4.css">
 </head>
 <body>
 	<center>

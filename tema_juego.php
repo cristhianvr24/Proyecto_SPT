@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Tema_op_j</title>
-	<link rel="stylesheet" type="text/css" href="css./Style_5.css">
+	<link rel="stylesheet" type="text/css" href="./css/Style_5.css">
 </head>
 <body>
 	<div class="b">

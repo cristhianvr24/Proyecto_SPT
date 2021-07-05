@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Preguntas</title>
-	<link rel= "stylesheet" href= "css./Style.css">
+	<link rel= "stylesheet" href= "./css/Style.css">
 	<script src="./js/jquery-3.6.0.min.js"></script>
 
 </head>
