@@ -2,7 +2,7 @@
 	transition: all 0.3s;
 }
 body{
-	background-image: url(../imagenes./Inicio.jpg);
+	background-image: url(../imagenes/Inicio.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
