@@ -192,7 +192,7 @@
   </div>
   <div id="button-up">
     <i class="fas fa-chevron-up"></i>
-    <script type="text/javascript" src="js./goup.js"></script>
+    <script type="text/javascript" src="./js/goup.js"></script>
   </div>
   <div><br></div>
   
