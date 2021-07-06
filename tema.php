@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Tema_op</title>
-	<link rel="stylesheet" type="text/css" href="./css/Style_3.css">
+	<link rel="stylesheet" type="text/css" href="./css/style_3.css">
 </head>
 <body>
 	<div class="b">
